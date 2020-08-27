@@ -1,0 +1,2 @@
+# Massitant
+This tool will function as an assistant to the user providing them with the fastest and shortest path to get from one station to another. The tool will also calculate the price of the journey. The user gives their origin and destination stations as an input and the tool finds the path for them and tells them where to change between lanes how many stops to ride in a lane to get to their destination. 
